@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "project": "OpenFeline",
+  "data_structure": {
+    "identity": "unique_cat_id",
+    "core_personality": {
+      "warmth": "0.0 to 1.0",
+      "independence": "0.0 to 1.0",
+      "curiosity": "0.0 to 1.0"
+    },
+    "memory_index": "pointer_to_cloud_storage",
+    "hardware_compatibility": "any_edge_device"
+  }
+}
